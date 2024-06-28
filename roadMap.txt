@@ -1,0 +1,4 @@
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions
+https://learn.microsoft.com/en-us/dotnet/csharp/linq/
+
